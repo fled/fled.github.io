@@ -10,7 +10,7 @@ Address: Shenzhen, China
 
 公众号：
 
-![image]()
+![image](https://github.com/fled/fled.github.io/blob/master/qrcode_szpatient.jpg)
 
 ## Research Interest
 Computer Vision, Pattern Recognition, Machine Learning and Game AI.
