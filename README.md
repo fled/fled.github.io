@@ -8,7 +8,7 @@ Address: Shenzhen, China
 
 Personal blog on wechat （公众号）：
 
-![image](https://raw.githubusercontent.com/fled/fled.github.io/master/qrcode_szpatient.jpg)
+![深圳病人](https://raw.githubusercontent.com/fled/fled.github.io/master/qrcode_szpatient.jpg)
 
 ## Research Interest
 Computer Vision, Pattern Recognition, Machine Learning and Game AI.
