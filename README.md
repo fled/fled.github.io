@@ -3,22 +3,27 @@
 ## Personal Information
 
 **Senior Research Scientist** in Tencent Game AI research group.
+
 Email: flydreamersu AT gmail DOT com
+
 Address: Shenzhen, China
+
 公众号：
+
 ![image]()
+
 ## Research Interest
 Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 
 ## Eduction
-Ph.D., Computer Science, National University of Singapore 2008-2012
-Bachelor, Computer Science, Fudan University 2004-2008
+- Ph.D., Computer Science, National University of Singapore 2008-2012
+- Bachelor, Computer Science, Fudan University 2004-2008
 
 ## Working Experience
-**Research Scientist 2013-2016**
-Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR). Singapore
-**Research Fellow 2012-2013**
-School of Computing, National University of Singapore
+
+**Research Scientist 2013-2016**, Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR). Singapore
+
+**Research Fellow 2012-2013**, School of Computing, National University of Singapore
 
 ## Awards
 
