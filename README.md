@@ -3,7 +3,8 @@
 ## Personal Information
 
 ### Senior Research Scientist in Tencent Game AI research group.
-### Email: flydreamersu AT gmail DOT com
+Email: flydreamersu AT gmail DOT com
+Address: Shenzhen, China
 
 ## Research Interest
 Computer Vision, Pattern Recognition, Machine Learning and Game AI.
