@@ -6,7 +6,7 @@ Email: flydreamersu AT gmail DOT com
 
 Address: Shenzhen, China
 
-公众号：
+Personal blog on wechat （公众号）：
 
 ![image](https://github.com/fled/fled.github.io/blob/master/qrcode_szpatient.jpg)
 
