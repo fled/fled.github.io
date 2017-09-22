@@ -1,5 +1,3 @@
-# Welcome to Bolan's Personal Homepage
-
 ## Personal Information
 
 **Senior Research Scientist** in Tencent Game AI research group.
