@@ -35,12 +35,13 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 - **Computer World Scholarship in 2007**
 
 ## Patent
-- SG Patent: A Novel Word Recognition Technique in Scene (SG10201402314R), 2014
+- SG Patent: A Novel Word Recognition Technique in Scene **(SG10201402314R)**, 2014
+- CN Patent: 一种图片的主色调提取方法和装置 **(CN106898026 A)**, 2017
 
 ## Competitions
-- Second Best Performance in international competition on word recognition in segmented historical documents 2014
-- Best Performance in Document Image Binarization Contest 2013
-- Best Performance in Handwritten Document Image Binarization Competition 2010
+- **Second Best Performance** in international competition on word recognition in segmented historical documents 2014
+- **Best Performance** in Document Image Binarization Contest 2013
+- **Best Performance** in Handwritten Document Image Binarization Competition 2010
 
 ## Publications
 My Full Publication List including H-index and citations can also be found in [Google Citation](http://scholar.google.com.sg/citations?hl=en&user=ymlKC0EAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/s/Su:Bolan).
