@@ -25,8 +25,8 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 
 ## Awards
 
-- **Overseas High-Caliber Personnel(level C)** of Shenzhen 海外高层次人才(孔雀计划)
-- **Linghang Talent(level C)** of Nanshang District, Shenzhen 南山区领航人才
+- **Overseas High-Caliber Personnel(level C)** of Shenzhen 2017-2022 海外高层次人才(孔雀计划)
+- **Linghang Talent(level C)** of Nanshang District, Shenzhen 2017-2022 南山区领航人才
 - **Tecent Knowledge Share Award** 2017
 - **Excellent Staff** of Tencent, 2017 first half year
 - **Singapore MDA IJam Award** Tier 1&2，2015-2016
@@ -51,13 +51,14 @@ My Full Publication List including H-index and citations can also be found in [G
 - **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_
 
 ## Activities
-- Invited talk on first international young scholars forum of school of software engineering, south china university of technology (SCUT) in 2016.
-- Invited as reviewer of Israel Science Foundation on the Individual Research Grants in 2013
-- Attended the first Doctoral Consortium held under the International Conference on Document Analysis and Recognition 2011.
-- Invited to visit Indian Statistical Instiute, Kolkata by Prof. Umapada Pal. in 2011.
-- Invited to visit Graduate School at Shenzhen, Tsinghua University by Prof. Chen Youbin in 2012.
-- Student helper of Pattern Recognition and Machine Intelligence Association (PREMIA) from 2010-2012.
-- Teaching Assistant of CS4243 Computer Vision and Pattern Recognition 2010-2011 Semester I and CS5340 Uncertainty Modeling in AI 2010-2011 Semester II.
+- **Tecent Academy Lecturer** on Feature Engineering (特征工程) 2017 
+- Invited talk on **first international young scholars forum** of school of software engineering, south china university of technology (SCUT) in 2016.
+- Invited as **reviewer of Israel Science Foundation** on the Individual Research Grants in 2013
+- Attended the **first Doctoral Consortium** held under the International Conference on Document Analysis and Recognition 2011.
+- Invited to visit **Indian Statistical Instiute**, Kolkata by Prof. Umapada Pal. in 2011.
+- Invited to visit **Graduate School at Shenzhen, Tsinghua University** by Prof. Chen Youbin in 2012.
+- Student helper of **Pattern Recognition and Machine Intelligence Association (PREMIA)** from 2010-2012.
+- Teaching Assistant of **CS4243 Computer Vision and Pattern Recognition** 2010-2011 Semester I and **CS5340 Uncertainty Modeling in AI** 2010-2011 Semester II.
 
 ## Others
 
