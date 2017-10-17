@@ -49,9 +49,9 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 ## Publications
 My Full Publication List including H-index and citations can also be found in [Google Citation](http://scholar.google.com.sg/citations?hl=en&user=ymlKC0EAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/s/Su:Bolan).
 
-- **Bolan Su**, Shijian Lu; Accurate Recognition of Words in Scenes without Character Segmentation using Recurrent Neural Network. _Pattern Recognition 2016_
-- **Bolan Su**, Shijian Lu, Chew Lim Tan; A Robust Document Image Binarization for Degraded Document Images. _IEEE Transaction on Image Processing 2013_
-- **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_
+- **Bolan Su**, Shijian Lu; Accurate Recognition of Words in Scenes without Character Segmentation using Recurrent Neural Network. _Pattern Recognition 2016_ [paper](paper/text_recog.pdf) 
+- **Bolan Su**, Shijian Lu, Chew Lim Tan; A Robust Document Image Binarization for Degraded Document Images. _IEEE Transaction on Image Processing 2013_ [paper](paper/binarization.pdf)
+- **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_ [paper](paper/blur.pdf) [code](https://github.com/fled/blur_detection)
 
 ## Activities
 - **Tecent Academy Lecturer** on Feature Engineering (特征工程) 2017 
@@ -62,9 +62,6 @@ My Full Publication List including H-index and citations can also be found in [G
 - Invited to visit **Graduate School at Shenzhen, Tsinghua University** by Prof. Chen Youbin in 2012.
 - Student helper of **Pattern Recognition and Machine Intelligence Association (PREMIA)** from 2010-2012.
 - Teaching Assistant of **CS4243 Computer Vision and Pattern Recognition** 2010-2011 Semester I and **CS5340 Uncertainty Modeling in AI** 2010-2011 Semester II.
-
-## Others
-
 - Program Committee Member: ICDAR 2017&2015&2013, ICPR 2016&2014, DAS 2016&2014
 
 
