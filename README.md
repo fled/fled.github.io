@@ -29,7 +29,8 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 
 - **Overseas High-Caliber Personnel(level C)** of Shenzhen 2017-2022 海外高层次人才(孔雀计划)
 - **Linghang Talent(level C)** of Nanshang District, Shenzhen 2017-2022 南山区领航人才
-- **Tecent AI Code Award** 2017
+- **Tecent Micro-Innovation Award** 2017 腾讯微创新奖
+- **Tecent Code Award** 2017 腾讯代码文化奖
 - **Tecent Knowledge Share Award** 2017
 - **Excellent Staff** of Tencent, 2017 first half year
 - **Singapore MDA IJam Award** Tier 1&2，2015-2016
