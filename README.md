@@ -21,9 +21,11 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 
 ## Working Experience
 
-**Research Scientist 2013-2016**, Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR). Singapore
+**Senior Researcher 2016-now**, Interactive Entertainment Group (IEG), Tencent, Shenzhen, China. 
 
-**Research Fellow 2012-2013**, School of Computing, National University of Singapore
+**Research Scientist 2013-2016**, Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore
+
+**Research Fellow 2012-2013**, School of Computing, National University of Singapore, Singapore
 
 ## Awards
 
