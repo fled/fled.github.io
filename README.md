@@ -32,9 +32,9 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 - **Tecent Micro-Innovation Award** 2017 腾讯微创新奖
 - **Tecent Code Award** 2017 腾讯代码文化奖
 - **Tecent Knowledge Share Award** 2017 腾讯知识奖
-- **Excellent Staff** of Tencent, 2017 first half year
+- **Excellent Staff** of Tencent, 2017
 - **Singapore MDA IJam Award** Tier 1&2，2015-2016
-- **Excellent Performance** 2014-2015; Institute for Infocomm Research (I2R)
+- **Excellent Performance** 2014, 2015; Institute for Infocomm Research (I2R)
 - **Premia Best Student Paper Award** 2012
 - **Computer World Scholarship** in 2007
 
