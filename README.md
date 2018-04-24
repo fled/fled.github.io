@@ -58,8 +58,9 @@ My Full Publication List including H-index and citations can also be found in [G
 
 ## Activities
 - [CODING 技术小馆 - 数据淘金时代](http://www.itdks.com/eventlist/detail/2053) 2018.04
-- **Tecent Academy Lecturer** on Feature Engineering (特征工程) 2017 
+- **Tecent Academy Lecturer** on Feature Engineering (特征工程) 
 - Invited talk on **first international young scholars forum** of school of software engineering, south china university of technology (SCUT) in 2016.
+- ["Take the Pain Out of Detecting illegal parking"](https://www.ncs.com.sg/documents/20184/73753/SURF+Vol+10/7122cc9c-1f6b-4551-9df8-eeb59211bce5), SURF 2015 Vol. 10
 - Invited as **reviewer of Israel Science Foundation** on the Individual Research Grants in 2013
 - Attended the **first Doctoral Consortium** held under the International Conference on Document Analysis and Recognition 2011.
 - Invited to visit **Indian Statistical Instiute**, Kolkata by Prof. Umapada Pal. in 2011.
