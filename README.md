@@ -58,7 +58,7 @@ My Full Publication List including H-index and citations can also be found in [G
 
 ## Activities
 - [游戏人工智能读书笔记](https://zhuanlan.zhihu.com/TGAIRC)
-- [CODING 技术小馆 - 数据淘金时代](http://www.itdks.com/eventlist/detail/2053) 2018.04
+- CODING 技术小馆 - 数据淘金时代: [数据挖掘中的特征提取 上](http://www.10tiao.com/html/717/201805/2649755956/1.html), [中](http://www.10tiao.com/html/717/201805/2649755970/1.html), [下](http://www.10tiao.com/html/717/201805/2649755973/1.html) 2018.04 
 - **Tecent Academy Lecturer** on Feature Engineering (特征工程) 
 - Invited talk on **first international young scholars forum** of school of software engineering, south china university of technology (SCUT) in 2016.
 - ["Take the Pain Out of Detecting illegal parking"](https://www.ncs.com.sg/documents/20184/73753/SURF+Vol+10/7122cc9c-1f6b-4551-9df8-eeb59211bce5), SURF 2015 Vol. 10
