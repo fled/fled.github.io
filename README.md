@@ -53,7 +53,7 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 My Full Publication List including H-index and citations can also be found in [Google Citation](http://scholar.google.com.sg/citations?hl=en&user=ymlKC0EAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/s/Su:Bolan).
 
 - **Bolan Su**, Shijian Lu; Accurate Recognition of Words in Scenes without Character Segmentation using Recurrent Neural Network. _Pattern Recognition 2016_ [paper](paper/text_recog.pdf) 
-- **Bolan Su**, Shijian Lu, Chew Lim Tan; A Robust Document Image Binarization for Degraded Document Images. _IEEE Transaction on Image Processing 2013_ [paper](paper/binarization.pdf)
+- **Bolan Su**, Shijian Lu, Chew Lim Tan; A Robust Document Image Binarization for Degraded Document Images. _IEEE Transaction on Image Processing 2013_ [paper](paper/binarization.pdf) [matlab p code](paper/DIBCO11_Binarization.rar)
 - **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_ [paper](paper/blur.pdf) [code](https://github.com/fled/blur_detection)
 
 ## Activities
