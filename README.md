@@ -57,6 +57,7 @@ My Full Publication List including H-index and citations can also be found in [G
 - **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_ [paper](paper/blur.pdf) [code](https://github.com/fled/blur_detection)
 
 ## Activities
+- [游戏人工智能读书笔记](https://zhuanlan.zhihu.com/TGAIRC)
 - [CODING 技术小馆 - 数据淘金时代](http://www.itdks.com/eventlist/detail/2053) 2018.04
 - **Tecent Academy Lecturer** on Feature Engineering (特征工程) 
 - Invited talk on **first international young scholars forum** of school of software engineering, south china university of technology (SCUT) in 2016.
