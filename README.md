@@ -29,12 +29,12 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 
 ## Awards
 
-- **Overseas High-Caliber Personnel(level C)** of Shenzhen 2017-2022 海外高层次人才(孔雀计划)
+- **Overseas Talent(level C)** of Shenzhen 2017-2022 海外高层次人才(孔雀计划)
 - **Linghang Talent(level C)** of Nanshang District, Shenzhen 2017-2022 南山区领航人才
 - **Tencent Micro-Innovation Award** 2017 腾讯微创新奖
 - **Tencent Code Award** 2017 腾讯代码文化奖
 - **Tencent Knowledge Share Award** 2017 腾讯知识奖
-- **Excellent Staff** of Tencent, 2017
+- **Excellent Staff** of Tencent, 2017, 2018
 - **Singapore MDA IJam Award** Tier 1&2，2015-2016
 - **Excellent Performance** 2014, 2015; Institute for Infocomm Research (I2R)
 - **Premia Best Student Paper Award** 2012
@@ -43,6 +43,8 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 ## Patent
 - SG Patent: A Novel Word Recognition Technique in Scene **(SG10201402314R)**, 2014
 - CN Patent: 一种图片的主色调提取方法和装置 **(CN106898026 A)**, 2017
+- CN Patent: 残局牌面获取方法、装置、计算机设备及存储介质 **(CN109011580 A)**, 2018
+- CN Patent: 信息推荐方法、装置、计算机可读介质及电子设备 **(CN108776676 A)**, 2018
 
 ## Competitions
 - **Second Best Performance** in international competition on word recognition in segmented historical documents 2014
@@ -57,6 +59,7 @@ My Full Publication List including H-index and citations can also be found in [G
 - **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_ [paper](paper/blur.pdf) [code](https://github.com/fled/blur_detection)
 
 ## Activities
+- Invited talk on [深度强化学习在游戏研发中的应用](https://bj2018.archsummit.com/presentation/1309) by [ArchSummit 全球架构师峰会 2018](https://bj2018.archsummit.com/) 2018.12.07
 - Invited talk on [Game and AI](https://www.meetup.com/Yidu-AI-Meetup/events/253028873/) by [YiDu AI](https://yiduai.sg/) 2018.07.29
 - CODING 技术小馆 - 数据淘金时代: [数据挖掘中的特征提取 上](http://www.10tiao.com/html/717/201805/2649755956/1.html), [中](http://www.10tiao.com/html/717/201805/2649755970/1.html), [下](http://www.10tiao.com/html/717/201805/2649755973/1.html) 2018.04 
 - **Tecent Academy Lecturer** on Feature Engineering (特征工程) 
