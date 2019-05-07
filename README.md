@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-**Senior Research Scientist (T3.3)** in Tencent Game AI research group.
+**Senior Research Scientist** in Tencent Game AI research group.
 
 Email: flydreamersu AT gmail DOT com
 
