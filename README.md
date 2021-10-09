@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-**Senior Research Scientist** in Tencent Game AI research group.
+In charge of the Data-Douyin Risk Management, Bytedance.
 
 Email: flydreamersu AT gmail DOT com
 
@@ -12,7 +12,7 @@ Personal blog on wechat （公众号） and [游戏人工智能读书笔记](htt
 
 ![SZ_Patient](https://raw.githubusercontent.com/fled/fled.github.io/master/qrcode_szpatient.jpg "深圳病人")
 
-### New Book Release: [深度强化学习核心算法与应用](https://item.jd.com/30746048.html?newe=1)
+### New Book Release,Click to Buy [深度强化学习核心算法与应用](https://item.jd.com/30746048.html?newe=1)
 
 ## Research Interest
 Computer Vision, Pattern Recognition, Machine Learning, Game AI and Anti-Fraud/Risk-Control.
