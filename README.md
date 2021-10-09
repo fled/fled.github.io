@@ -12,8 +12,10 @@ Personal blog on wechat （公众号） and [游戏人工智能读书笔记](htt
 
 ![SZ_Patient](https://raw.githubusercontent.com/fled/fled.github.io/master/qrcode_szpatient.jpg "深圳病人")
 
+### New Book Release: [深度强化学习核心算法与应用](https://item.jd.com/30746048.html?newe=1)
+
 ## Research Interest
-Computer Vision, Pattern Recognition, Machine Learning and Game AI.
+Computer Vision, Pattern Recognition, Machine Learning, Game AI and Anti-Fraud/Risk-Control.
 
 ## Eduction
 - Ph.D., Computer Science, National University of Singapore 2008-2012
@@ -21,7 +23,9 @@ Computer Vision, Pattern Recognition, Machine Learning and Game AI.
 
 ## Working Experience
 
-**Senior Researcher 2016-now**, Interactive Entertainment Group (IEG), Tencent, Shenzhen, China. 
+**Algorithm Engineer Now**, Data-Douyin Risk Management, Bytedance, Shenzhen, China. 
+
+**Senior Researcher 2016-2019**, Interactive Entertainment Group (IEG), Tencent, Shenzhen, China. 
 
 **Research Scientist 2013-2016**, Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore
 
