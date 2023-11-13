@@ -49,6 +49,9 @@ Computer Vision, Pattern Recognition, Machine Learning, Game AI and Anti-Fraud/R
 - CN Patent: 一种图片的主色调提取方法和装置 **(CN106898026 A)**, 2017
 - CN Patent: 残局牌面获取方法、装置、计算机设备及存储介质 **(CN109011580 A)**, 2018
 - CN Patent: 信息推荐方法、装置、计算机可读介质及电子设备 **(CN108776676 A)**, 2018
+- CN Patent: 游戏信息的确定方法和装置、存储介质、电子装置 **(WO2019085823A1)**, 2019
+- CN Patent: 对象分类方法、装置、可读介质及电子设备 **(CN114330578A)**, 2021
+
 
 ## Competitions
 - **Second Best Performance** in international competition on word recognition in segmented historical documents 2014
