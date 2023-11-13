@@ -66,6 +66,7 @@ My Full Publication List including H-index and citations can also be found in [G
 - **Bolan Su**, Shijian Lu, Chew Lim Tan; Blurred image region detection and classification. _ACM MultiMedia 2011_ [paper](paper/blur.pdf) [code](https://github.com/fled/blur_detection)
 
 ## Activities
+- Invited talk on 短视频社区风控算法 by [QCon 全球软件开发大会 2022](https://qcon.infoq.cn/2022/shanghai/presentation/5107) 2022.11.26
 - Invited talk on [深度强化学习在游戏研发中的应用](https://bj2018.archsummit.com/presentation/1309) by [ArchSummit 全球架构师峰会 2018](https://bj2018.archsummit.com/) 2018.12.07
 - Invited talk on [Game and AI](https://www.meetup.com/Yidu-AI-Meetup/events/253028873/) by [YiDu AI](https://yiduai.sg/) 2018.07.29
 - CODING 技术小馆 - 数据淘金时代: [数据挖掘中的特征提取 上](http://www.10tiao.com/html/717/201805/2649755956/1.html), [中](http://www.10tiao.com/html/717/201805/2649755970/1.html), [下](http://www.10tiao.com/html/717/201805/2649755973/1.html) 2018.04 
